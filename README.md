@@ -8,7 +8,5 @@
 # ...
 
 #### TODOS
-- send mail with image,
-- custom styling,
 - error handling,
 - settings page for email
